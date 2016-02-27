@@ -1,0 +1,29 @@
+_repo: Two-Gentlemen-of-Verona_1773
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '1999-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1773'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Exiles -- Drama'
+- !lcsh 'Verona (Italy) -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Triangles (Interpersonal relations) -- Drama'
+title: Two Gentlemen of Verona
+url: http://www.gutenberg.org/ebooks/1773
