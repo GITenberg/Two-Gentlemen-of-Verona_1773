@@ -1,5 +1,5 @@
 _repo: Two-Gentlemen-of-Verona_1773
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Verona (Italy) -- Drama'
 - !lcsh 'Comedies'
 - !lcsh 'Triangles (Interpersonal relations) -- Drama'
+- GITenberg
 title: Two Gentlemen of Verona
 url: http://www.gutenberg.org/ebooks/1773
